@@ -19,17 +19,17 @@ Você pode visualizar a página em funcionamento [aqui](https://victor-barbosa.v
 
 ### Desktop
 
-![Layout Desktop](images/layout![MacBook Pro-1720907031869](https://github.com/user-attachments/assets/37fcf18a-aa3a-4c72-8c68-f5a863eadd7b)
--desktop.png)
+![MacBook Pro-1720907031869](https://github.com/user-attachments/assets/37fcf18a-aa3a-4c72-8c68-f5a863eadd7b)
+
 
 ### Mobile
 
-![Layout Mobile](![iPhone 12 Pro-1720907049129](https://github.com/user-attachments/assets/c60e192e-5d21-4d77-8094-f5fc411a468e)
+![iPhone 12 Pro-1720907049129](https://github.com/user-attachments/assets/c60e192e-5d21-4d77-8094-f5fc411a468e
 )
 
 ## 📱 Links de Contato
 
-- [LinkedIn]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/victor-barbosa99/))
+- [LinkdIn]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/victor-barbosa99/))
 
 
 ## 💡 Funcionalidades
