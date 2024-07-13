@@ -29,8 +29,7 @@ Você pode visualizar a página em funcionamento [aqui](https://victor-barbosa.v
 
 ## 📱 Links de Contato
 
-[LinkedIn](https://www.linkedin.com/in/victor-barbosa99/){:target="_blank"}
-
+<a href="https://www.linkedin.com/in/victor-barbosa99/" target="_blank">LinkedIn</a>
 
 ## 💡 Funcionalidades
 
